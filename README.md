@@ -13,7 +13,7 @@
 
 Use Webpack with JS, CSS, npm, Babel, Node
 
-## Project Specifications
+## Tutorial Content
 
 -	Quickly get started, without long introductions and rambling.
 -	Create fully functional, production ready Webpack config from scratch.
