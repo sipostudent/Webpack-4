@@ -1,4 +1,3 @@
-"# Webpack-4" 
 <h1 align = "center">
 <br>
   <img src = "img/laptop.jpg" width = "600">
