@@ -3,7 +3,7 @@
   <img src = "img/laptop.jpg" width = "600">
   <br>
     <br>
-  Webpack 4 - Tutorial
+  Webpack 4 - Tutorials
   <br>
 </ H1>
 
